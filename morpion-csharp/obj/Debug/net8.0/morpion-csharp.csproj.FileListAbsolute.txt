@@ -1,0 +1,15 @@
+/workspaces/morpion-csharp/morpion-csharp/bin/Debug/net8.0/morpion-csharp
+/workspaces/morpion-csharp/morpion-csharp/bin/Debug/net8.0/morpion-csharp.deps.json
+/workspaces/morpion-csharp/morpion-csharp/bin/Debug/net8.0/morpion-csharp.runtimeconfig.json
+/workspaces/morpion-csharp/morpion-csharp/bin/Debug/net8.0/morpion-csharp.dll
+/workspaces/morpion-csharp/morpion-csharp/bin/Debug/net8.0/morpion-csharp.pdb
+/workspaces/morpion-csharp/morpion-csharp/obj/Debug/net8.0/morpion-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/morpion-csharp/morpion-csharp/obj/Debug/net8.0/morpion-csharp.AssemblyInfoInputs.cache
+/workspaces/morpion-csharp/morpion-csharp/obj/Debug/net8.0/morpion-csharp.AssemblyInfo.cs
+/workspaces/morpion-csharp/morpion-csharp/obj/Debug/net8.0/morpion-csharp.csproj.CoreCompileInputs.cache
+/workspaces/morpion-csharp/morpion-csharp/obj/Debug/net8.0/morpion-csharp.sourcelink.json
+/workspaces/morpion-csharp/morpion-csharp/obj/Debug/net8.0/morpion-csharp.dll
+/workspaces/morpion-csharp/morpion-csharp/obj/Debug/net8.0/refint/morpion-csharp.dll
+/workspaces/morpion-csharp/morpion-csharp/obj/Debug/net8.0/morpion-csharp.pdb
+/workspaces/morpion-csharp/morpion-csharp/obj/Debug/net8.0/morpion-csharp.genruntimeconfig.cache
+/workspaces/morpion-csharp/morpion-csharp/obj/Debug/net8.0/ref/morpion-csharp.dll
