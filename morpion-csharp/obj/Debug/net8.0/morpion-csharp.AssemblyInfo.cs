@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("morpion-csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+397e36141e5d8e81eb2fda115a2a669c0bfc77ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38740c05c0594ba936a0c1f0e99eca7c72f86f18")]
 [assembly: System.Reflection.AssemblyProductAttribute("morpion-csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("morpion-csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
